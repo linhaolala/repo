@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88c4b92d-dec7-40a5-8fbb-5de572baa7ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Environment/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1y9lHNYUISmhUv5RXRrQuxzal2p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../智慧大屏" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.github" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\sort" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestSort.arrayListTest">
+    <configuration name="TestSort.arrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.github.sort.TestSort" />
+      <option name="METHOD_NAME" value="arrayListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSort.insertSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.github.sort.TestSort" />
+      <option name="METHOD_NAME" value="insertSortTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSort.selectionSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sort" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.github.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.github.sort.TestSort" />
+      <option name="METHOD_NAME" value="selectionSortTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestSort.arrayListTest" />
+        <item itemvalue="JUnit.TestSort.insertSortTest" />
+        <item itemvalue="JUnit.TestSort.selectionSortTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\林浩\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c4b92d-dec7-40a5-8fbb-5de572baa7ef" name="Default Changelist" comment="" />
+      <created>1631671595557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631671595557</updated>
+      <workItem from="1631671599773" duration="14759000" />
+      <workItem from="1631699337777" duration="3467000" />
+      <workItem from="1631755487902" duration="10907000" />
+      <workItem from="1631868886257" duration="19000" />
+      <workItem from="1632296629216" duration="3220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1631691398038">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1631691398038" />
+    <state x="18" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1631673093170">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="18" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1631673093170" />
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631672447328">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1631672447328" />
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom" timestamp="1631783986601">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631783986601" />
+    <state width="1237" height="194" key="GridCell.Tab.0.center" timestamp="1631783986601">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1631783986601" />
+    <state width="1237" height="194" key="GridCell.Tab.0.left" timestamp="1631783986601">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1631783986601" />
+    <state width="1237" height="194" key="GridCell.Tab.0.right" timestamp="1631783986601">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1631783986601" />
+    <state width="1237" height="194" key="GridCell.Tab.1.bottom" timestamp="1631783986602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1631783986602" />
+    <state width="1237" height="194" key="GridCell.Tab.1.center" timestamp="1631783986602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1631783986602" />
+    <state width="1237" height="194" key="GridCell.Tab.1.left" timestamp="1631783986601">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1631783986601" />
+    <state width="1237" height="194" key="GridCell.Tab.1.right" timestamp="1631783986602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="194" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1631783986602" />
+    <state x="349" y="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1631671739249">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1631671739249" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1631773861373">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1631773861373" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1632298960597">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1632298960597" />
+  </component>
+</project>
